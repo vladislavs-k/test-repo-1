@@ -3,3 +3,8 @@ and attempting to commit with changed file1.txt
 both files together as the 3rd commit
 
 Adding some changes for the 4th commit
+
+
+Some "substantial changes" just to test branching:
+	It'll be the first commit in the "branching_test" branch
+	but in common it'll be the fifth commit
