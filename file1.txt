@@ -1,1 +1,2 @@
 Hello GIT!
+Third commit. Making some more changes to the file1.txt

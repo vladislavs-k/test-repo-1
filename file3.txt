@@ -1,0 +1,3 @@
+Previously created but not committed file3.txt
+and attempting to commit with changed file1.txt
+both files together as the 3rd commit
