@@ -3,3 +3,5 @@ Third commit. Making some more changes to the file1.txt
 
 Some "substantial changes" just to test branching:
 	First commitn in the "branching_test" branch but in common it'll be the fifth commit
+	
+New changes to check git push command.
