@@ -1,1 +1,18 @@
 Some "code inside" before renaming file4.txt
+
+
+Renaming file4.txt to file4444.txt and changing content of the file
+
+If you need to rename file:
+1st step: rename file withnout changing content of the file and
+then make one of three options, so than git knows that file was renamed:
+	1) git add .
+	2) git add file4.txt
+		and then
+	   git add file4444.txt
+	3) git add file4.txt file4444.txt
+After you moved file to the staging area make separate commit.
+
+
+2nd step: If you need to make some changes inside the file,
+make changes after you commited file with changed file name.
