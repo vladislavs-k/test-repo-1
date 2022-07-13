@@ -1,0 +1,1 @@
+Some "code inside" before renaming file4.txt
